@@ -11,7 +11,7 @@ ClimateWins believes that even weather extremes could be predicted and planned f
 The data is sourced from the [European Climate Assessment & Data Set project.](https://www.ecad.eu/)<br/>
 It contains data from 18 European weather stations ranging from the late 1800's to 2022. Weather variables include temperature, precipitation, cloud cover, wind speed, global radiation and more.
 
-## Key hyotheses
+## Key hypotheses
 - Machine Learning can be applied to the data to predict weather conditions.
 - Certain models perform better than others in predicting weather.
 - Extreme weather events have been increasing over the last few decades.
@@ -24,6 +24,10 @@ It contains data from 18 European weather stations ranging from the late 1800's 
 - KNN
 - Decision Tree
 - ANN
+- Hierarchical Clustering
+- CNN
+- RNN/ LSTM
 
 ## Project Deliverables
-View the presentation slides in the Analysis folder. 
+- Interim Report (presentation) on supervised learning and optimization.
+- Final Report (presentation) on complex machine learning models and thought experiments.
